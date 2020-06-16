@@ -4,8 +4,9 @@ void main() {
   runApp(
     Center(
       child: Text(
+        'Hello, world!',
         'Hello,',
-		kamal
+
         textDirection: TextDirection.ltr,
       ),
     ),
